@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.jumbotron {
+    background-image: url("../assets/header.jpg");
+    background-size: cover;
+    padding: 50px;
+  }
