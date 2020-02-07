@@ -1,15 +1,10 @@
 https://fork-yourself.herokuapp.com/
 
-**Requirements**
+Do you have a pantry full of food or toppings that you just arnt using? 
+Ever have raw catfish nuggets?
+What do you do with chicken livers?
+What the heck is Kohlrabi !?!?!?
 
-* Use a Node and Express Web Server;
-* Be backed by a MySQL Database an ORM (not necessarily Sequelize);
-* Have both GET and POST routes for retrieving and adding new data;
-* Be deployed using Heroku (with Data);
-* Utilize at least one new library, package, or technology that we haven’t discussed;
-* Have a polished frontend / UI;
-* Have folder structure that meets MVC Paradigm;
-* Meet good quality coding standards (indentation, scoping, naming).
-* Must not expose sensitive API key information on the server, see 
+you can now find and save delicious recipes using those weird items that are just sitting there.
 
-[Protecting-API-Keys-In-Node.md](../../../10-nodejs/03-Supplemental/Protecting-API-Keys-In-Node.md)
+Your Welcome :)
